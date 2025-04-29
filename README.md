@@ -54,11 +54,7 @@ To get started with this repository, clone it to your local machine and explore 
     python -m venv env
     source env/bin/activate  # On Windows: env\Scripts\activate
     ```
-3. Install the required dependencies:
-    ```
-    pip install -r requirements.txt
-    ```
-4. Launch Jupyter Notebook:
+3. Launch Jupyter Notebook:
     ```
     jupyter notebook
     ```
@@ -66,18 +62,18 @@ To get started with this repository, clone it to your local machine and explore 
 
 ## Usage
 
-    Open the Jupyter Notebooks in the repository to explore the AI agents.
-    Modify the code or add your own AI agents for experimentation.
-    Run the cells in the notebooks to observe the behavior of the agents.
+ - Open the Jupyter Notebooks in the repository to explore the AI agents.
+ - Modify the code or add your own AI agents for experimentation.
+ - Run the cells in the notebooks to observe the behavior of the agents.
 
 ## Contributing
 
 Contributions are welcome! To contribute:
 
-    Fork this repository.
-    Create a new branch for your feature or bug fix.
-    Commit your changes and push them to your fork.
-    Submit a pull request with a detailed description of your changes.
+ - Fork this repository.
+ - Create a new branch for your feature or bug fix.
+ - Commit your changes and push them to your fork.
+ - Submit a pull request with a detailed description of your changes.
 
 ## License
 
